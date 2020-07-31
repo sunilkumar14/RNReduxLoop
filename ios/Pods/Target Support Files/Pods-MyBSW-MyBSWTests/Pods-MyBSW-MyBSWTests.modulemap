@@ -1,0 +1,6 @@
+module Pods_MyBSW_MyBSWTests {
+  umbrella header "Pods-MyBSW-MyBSWTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

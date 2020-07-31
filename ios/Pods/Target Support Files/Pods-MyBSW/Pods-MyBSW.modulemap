@@ -1,0 +1,6 @@
+module Pods_MyBSW {
+  umbrella header "Pods-MyBSW-umbrella.h"
+
+  export *
+  module * { export * }
+}
